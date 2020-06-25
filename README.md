@@ -23,6 +23,7 @@ If you find a book useful, you should support the author by purchasing a copy!
 #### [Python](https://github.com/kadekillary/library/tree/master/python)
 #### [R](https://github.com/kadekillary/library/tree/master/r)
 #### [SQL](https://github.com/kadekillary/library/tree/master/sql)
+#### [C/C++](https://github.com/kadekillary/library/tree/master/c_cpp)
 
 <br>
 
